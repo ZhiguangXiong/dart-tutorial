@@ -5,5 +5,5 @@
 * [变量](2-1-variable.md)
 * [基础类型](2-2-basic-type.md)
 * [集合](2-3-collection.md)
-* [函数](2-1-variable.md)
-* [其他](2-1-variable.md)
+* [函数](2-4-function.md)
+* [其他](2-5-other.md)
